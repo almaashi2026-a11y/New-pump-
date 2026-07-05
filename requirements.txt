@@ -1,0 +1,5 @@
+yfinance
+pyTelegramBotAPI
+pandas
+finvizfinance
+
